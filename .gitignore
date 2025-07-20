@@ -1,0 +1,8 @@
+./venv
+dspy-dag-service/venv
+/venv
+venv
+dspy-dag-service/venv/
+dspy-dag-service/.env
+LOGFILE.jsonl
+__pycache__/
